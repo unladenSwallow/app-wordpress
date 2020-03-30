@@ -1,5 +1,5 @@
 # Human readable title of application.
-title: Wordpress
+title: Wordpress-large-files
 
 overviewShort: Cloud portable Wordpress deployments behind managed Kubernetes and SQL services are demonstrated in this Crossplane Stack.
 overview: |-
