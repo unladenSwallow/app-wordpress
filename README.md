@@ -1,4 +1,4 @@
-# App Wordpress
+# App Wordpress - Large Files Edition
 
 This is a Crossplane Application that you can use to deploy Wordpress into a
 `KubernetesCluster` using a `MySQLInstance` database in the cloud.
