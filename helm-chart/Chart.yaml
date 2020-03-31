@@ -1,5 +1,5 @@
 # Since we use Helm only for templating, Chart.yaml is not important at all.
 # Filling these values just because they are required for pre-flight check of Helm.
-apiVersion: 1.1
+apiVersion: 1.1.1
 name: largefiles
-version: 1.1
+version: 1.1.1
